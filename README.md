@@ -17,6 +17,7 @@ Hey there! I'm André Luís, a Computer Science student at Unifal in Minas Gerai
 
 ## Get in Touch
 - 💼 Open to work opportunities
+  
     📧 Email: andreluis.souza@sou.unifal-mg.com.br
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andreluis-main&show_icons=true&theme=cobalt)
